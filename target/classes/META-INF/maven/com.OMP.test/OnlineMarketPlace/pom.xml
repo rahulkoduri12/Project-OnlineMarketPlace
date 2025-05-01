@@ -3,4 +3,13 @@
   <groupId>com.OMP.test</groupId>
   <artifactId>OnlineMarketPlace</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+	    <groupId>org.seleniumhq.selenium</groupId>
+	    <artifactId>selenium-java</artifactId>
+	    <version>4.31.0</version>
+	</dependency>
+  </dependencies>
 </project>
